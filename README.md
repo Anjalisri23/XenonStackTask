@@ -17,9 +17,9 @@ To execute the Linux bash script, follow these steps:
     ```bash
     bash script_name.sh
     ```
-   Replace `script_name.sh` with the actual name of your bash script.
 
-### Note
+
+
 
 
 ## Website Task (WebsiteTask Folder)
