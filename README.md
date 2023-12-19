@@ -1,4 +1,4 @@
-# Internship Hiring Test
+# XenonStack Hiring Test
 
 ## Linux Task (LinuxTask Folder)
 
